@@ -1,5 +1,23 @@
 .App {
-  text-align: left;
+  text-align: middle;
+  width: 1000px;
+  height: 300px;
+  background-color: rgb(255, 212, 160);
+  
+}
+.SwiperDiv{
+  background-color: bisque;
+  height: 200vh;
+  width: 200vh;
+
+}
+.swiper-container{
+  width: 600px;
+  height: 300px;
+  text-align: center;
+  text-align: middle;
+  align-items: center;
+  
 }
 
 
