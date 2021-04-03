@@ -1,0 +1,35 @@
+.App {
+  text-align: top;
+  width: 100vh;
+  height: 100vh;
+  padding: 10%;
+  background-color: rgb(255, 212, 160);
+
+  
+}
+/* .body{
+  margin: 100vh;
+
+
+} */
+.SwiperDiv{
+  /*margin: 100vh;*/
+  background-color: bisque;
+  height: auto;
+  width: auto;
+
+}
+.swiper-container{
+  width: auto;
+  height: 100vh;
+  text-align: center;
+  text-align: middle;
+  align-items: center;
+  
+}
+
+
+
+
+
+
