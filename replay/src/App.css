@@ -1,31 +1,59 @@
 .App {
-  text-align: top;
-  width: 100vh;
-  height: 100vh;
-  padding: 10%;
-  background-color: rgb(255, 212, 160);
-
   
-}
-/* .body{
-  margin: 100vh;
-
-
-} */
-.SwiperDiv{
-  /*margin: 100vh;*/
-  background-color: bisque;
-  height: auto;
-  width: auto;
-
-}
-.swiper-container{
-  width: auto;
-  height: 100vh;
-  text-align: center;
-  text-align: middle;
+  display: flex;
+  justify-content: center;
   align-items: center;
+  height: 100vh;
+  flex-direction: column;
   
+}
+.SpotifyEmbed{
+  align-items: center;
+  justify-items: center;
+  margin: auto;
+  padding: 10px 0;
+  text-align: center;
+}
+.SwiperDiv{
+  background: beige;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.swiper-container{
+  background-color: wheat;
+  width: 60%;
+  height: 100vh;
+  box-shadow: 2px 2px 2px;
+  align-items: center;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  text-align: center;
+  
+}
+
+
+
+.user-image{
+  width: 100px;
+  height: 100px;
+  background-color: whitesmoke;
+  display: flex;
+  border-radius: 50px;
+  justify-content: center;
+  align-items: center;
+}
+
+.user-photo{
+  border-radius: 50px;
+  align-items: center;
+  width: 100px;
+}
+
+.user-testimonial{
+  font-size: large;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 
